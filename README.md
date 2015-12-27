@@ -2,9 +2,11 @@
 
 SignApk is used to sign the apk file after repack. The easiest way ever.
 
-How to do
+How to do?
 
-download and open cmd
+download all files and put the repacked apk in that folder.
+
+open cmd in windows 8.1
 
 write command
 
